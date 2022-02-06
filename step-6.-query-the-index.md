@@ -12,7 +12,7 @@ a. **Amazon Kendra 콘솔**의 왼쪽 탐색 창에서 **Search console**을 선
 
 ![](<.gitbook/assets/image (17).png>)
 
-b. 다음, 다른 쿼리를 입력합니다: shipping rates to Canada
+b. 다음, 다른 쿼리를 입력합니다: _shipping rates to Canada_
 
 Amazon Kendra가 반환한 또 다른 결과를 볼 수 있습니다.
 
