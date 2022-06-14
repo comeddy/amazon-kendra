@@ -19,7 +19,7 @@ description: >-
 
 ![](<.gitbook/assets/image (10).png>)
 
-* AWS console 을 클릭합니다.
+* OPT값을 입력후, AWS console 을 클릭합니다.
 
 ![](<.gitbook/assets/image (33).png>)
 
@@ -27,5 +27,5 @@ description: >-
 
 ![](<.gitbook/assets/image (16).png>)
 
-* 축하합니다!! 실습용 핸즈온 사이트 구성이 완성되었습니다. 서비스 리전은 우측상단에서 N. Virginia로 설정 합니다.&#x20;
-* (권고) [IAM 사용자 계정생성](https://docs.aws.amazon.com/ko\_kr/IAM/latest/UserGuide/id\_users\_create.html)을 하여, 사용하는것을 추천드립니다.
+* 축하합니다!! 실습용 핸즈온 사이트 구성이 완성되었습니다. 우측상단에서 서비스 리전(N. Virginia)로 설정 합니다.&#x20;
+* (권고) [IAM 사용자 계정생성](https://docs.aws.amazon.com/ko\_kr/IAM/latest/UserGuide/id\_users\_create.html)을 하여, 해당 계정으로 재로그인 사용하는것을 추천드립니다.
