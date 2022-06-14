@@ -8,8 +8,6 @@ description: >-
 
 참고: 자세한 내용은 Amazon Kendra 문서에서 [색인 만들기(Creating an index)](https://docs.aws.amazon.com/kendra/latest/dg/create-index.html)를 참조하십시오.
 
-
-
 a. Amazon Kendra 콘솔에 로그인하고 오른쪽 상단 모서리에서 AWS 영역이 N. Virginia로 설정되었는지 확인합니다. 그런 다음 색인 만들기를 선택합니다.
 
 ![](<.gitbook/assets/image (12).png>)
@@ -27,4 +25,4 @@ c. Provisioning editions 페이지에서 Developer edition을 선택한 다음 C
 
 ![](<.gitbook/assets/image (25).png>)
 
-인덱스 생성 프로세스는 평균 15분이 걸리지만 최대 30분이 소요될 수 있습니다.
+인덱스 생성 프로세스는 평균 15분이 걸리지만 최대 30분이 소요될 수 있습니다. 브라우저 재접속으로 확인해 보세요.!
