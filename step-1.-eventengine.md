@@ -6,8 +6,6 @@ description: >-
 
 # Step 1. Eventengine 사용
 
-
-
 * [https://dashboard.eventengine.run/login](https://dashboard.eventengine.run/login) 사이트에 접속합니다.
 
 ![](<.gitbook/assets/image (18).png>)
@@ -29,4 +27,5 @@ description: >-
 
 ![](<.gitbook/assets/image (16).png>)
 
-* 축하합니다!! 실습용 핸즈온 사이트 구성이 완성되었습니다. 서비스 리전은 우측상단에서 N. Virginia로 설정 합니다.
+* 축하합니다!! 실습용 핸즈온 사이트 구성이 완성되었습니다. 서비스 리전은 우측상단에서 N. Virginia로 설정 합니다.&#x20;
+* (권고) [IAM 사용자 계정생성](https://docs.aws.amazon.com/ko\_kr/IAM/latest/UserGuide/id\_users\_create.html)을 하여, 사용하는것을 추천드립니다.
