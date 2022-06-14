@@ -10,7 +10,7 @@ a. **Amazon Kendra 콘솔**의 왼쪽 탐색 창에서 **Search console**을 선
 
 결과 상단에는 Amazon Kendra가 반환한 결과를 확인할 수 있다.
 
-![](<.gitbook/assets/image (17).png>)
+![](<.gitbook/assets/스크린샷 2022-06-15 오전 12.33.26.png>)
 
 b. 다음, 다른 쿼리를 입력합니다: _shipping rates to Canada_
 
