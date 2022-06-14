@@ -1,12 +1,12 @@
 # Step 4. Configure an S3 connector to the data source
 
-데이터 원본은 인덱싱을 위해 문서를 저장하는 Amazon S3(Amazon Simple Storage Service) 버킷과 같은 위치입니다. 원본 리포지토리의 새 문서, 업데이트된 문서 또는 삭제된 문서가 검색에 포함되도록 데이터 소스를 Amazon Kendra 인덱스와 자동으로 동기화할 수 있습니다. 커넥터는 문서 액세스 권한을 유지하며 색인을 데이터 원본과 자동으로 동기화하도록 예약할 수 있으므로 항상 최신 콘텐츠를 안전하게 검색할 수 있습니다.다음 단계를 완료하여&#x20;
+데이터 원본은 인덱싱을 위해 문서를 저장하는 Amazon S3(Amazon Simple Storage Service) 버킷과 같은 위치입니다. 원본 리포지토리의 새 문서, 업데이트된 문서 또는 삭제된 문서가 검색에 포함되도록 데이터 소스를 Amazon Kendra 인덱스와 자동으로 동기화할 수 있습니다. 커넥터는 문서 액세스 권한을 유지하며 색인을 데이터 원본과 자동으로 동기화하도록 예약할 수 있으므로 항상 최신 콘텐츠를 안전하게 검색할 수 있습니다.
 
-&#x20;Amazon.com 도움말 문서 샘플을 데이터 소스로 포함하는 Amazon S3 버킷에 커넥터를 추가합니다.
+Amazon.com 도움말 문서 샘플을 데이터 소스로 포함하는 Amazon S3 버킷에 커넥터를 추가합니다.
 
 참고: 자세한 내용은 Amazon Kendra 설명서의 데이터 소스를 참조하십시오.
 
-a. In the **Indexes** list, choose your **hands-on-tutorial**.
+a. **Indexes** 리스트에서, **hands-on-tutorial 를 선택**.
 
 ![](<.gitbook/assets/image (20).png>)
 
@@ -38,6 +38,6 @@ h. **Data source details(데이터 원본 세부 정보)** 페이지에서 **Syn
 
 ![](<.gitbook/assets/image (31).png>)
 
-동기화가 완료되면 데이터 원본의 마지막 동기화 상태가 성공으로 변경됩니다.
+동기화가 완료되면 데이터 원본의 마지막 동기화 상태가 성공으로 변경됩니다. 왼쪽메뉴에서 Data Sources를 선택합니다.
 
 ![](<.gitbook/assets/image (5).png>)
